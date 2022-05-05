@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myredex
+- 👋 Hi, I’m @myredex. My name is Timur Talikbayev.
 - 👀 I’m interested in Python and data science
 - 🌱 I’m currently learning Python
 
