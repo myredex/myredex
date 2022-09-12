@@ -1,5 +1,6 @@
 - 👋 My name is Timur Talikbayev. 
-- 👀 I’m interested in Python and data science. You can browse trought my portfolio here: https://myredex.github.io/portfolio
+- 👀 I’m interested in Python and data science. 
+- You can browse trought my portfolio here: https://myredex.github.io/portfolio
 - 🌱 I’m currently learning Python
 
 <!---
